@@ -1,0 +1,14 @@
+/*Hacker Lounge (5-28-2013)
+ * This Class is version three of the GUI associated with CarValue.
+ * It is the primary update of v3 of CarValueCalculator.
+ * It will add JFrames to the mix, rather than the v2 solution of popups.
+ */
+
+public class CarValueCalculator {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}
